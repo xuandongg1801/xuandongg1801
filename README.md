@@ -17,7 +17,7 @@
 ### 🌐 Socials
 
 <p>
-  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/t%C3%B4-xu%C3%A2n-%C4%91%C3%B4ng-7a76681ba/)">
+  <a href="https://linkedin.com/in/tô-xuân-đông-7a76681ba">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:toxuandong1801@gmail.com">
